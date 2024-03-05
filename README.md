@@ -9,5 +9,3 @@ Features
 Add Tasks: Add new tasks to your list with a clear and intuitive interface.
 Edit Tasks: Edit existing tasks to reflect changes or updates.
 Mark as Complete: Mark completed tasks for better organization and satisfaction.
-Filter Tasks: Filter tasks based on completion status (completed / incomplete) to focus on specific priorities.
-(Optional) Persistence: Persist task data using local storage or a backend service (e.g., database) to retain information even after browser refreshes.
